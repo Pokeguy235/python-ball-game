@@ -8,5 +8,7 @@
 now you have oh my zsh installed now you run the game.
 1. first go to the terminal open oh my zsh
 2. then type
-3. `python AAball.py`
+3. ```bash
+   python AAball.py
 the game should run
+# last but not least... FOLLOW ME!!!!!!!!!!!!!!!!
